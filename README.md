@@ -33,7 +33,7 @@
 </pre>
 
 <pre>
-  <code>root@server:~# bash ./zShield.sh</code>
+  <code>root@server:~# bash ./zProxyFilter.sh</code>
 </pre>
 
 # Contato
