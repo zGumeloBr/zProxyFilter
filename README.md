@@ -26,4 +26,4 @@
 
 # Como utilizar
 
-```  teste ```
+`root@server:~# teste`
