@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/198WgBY.png">
+<img src="https://i.imgur.com/eD9dvqC.png">
 
 ![](https://imgur.com/a/YOJPzUH)
 
@@ -29,7 +29,7 @@
 ⌨️ Para utilizar o script é super fácil, basta digitar os comandos a baixo que o programa será executado automaticamente.
 
 <pre>
-  <code>root@server:~# git clone https://github.com/zGumeloBr/zProxy-Filter.git</code>
+  <code>root@server:~# git clone https://github.com/zGumeloBr/zProxyFilter.git</code>
 </pre>
 
 <pre>
