@@ -1,4 +1,4 @@
-<img src="https://imgur.com/WoicdWn">
+<img src="https://i.imgur.com/WoicdWn.png">
 
 ![](https://imgur.com/a/YOJPzUH)
 
