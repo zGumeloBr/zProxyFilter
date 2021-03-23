@@ -10,11 +10,11 @@
 
 📡 Nosso script funciona com dois sistemas que chamamos de `MPB e APB`que fazem a coleta de grandes quantidades de proxys, disponibilizadas por sites de terceiros, mas como esses sistemas funcionam ? Leia a baixo a rápida explicação deles:
 
-❖ APB (Automatic Proxy Blocker):
+**❖ APB (Automatic Proxy Blocker):**
 
 O APB funciona coletando autoamticamente proxys de sistes como `ProxyScraper, Github, TOR` e outros assim de forma automatica bloqueando todas as proxys coletadas, atualmente coletamos de 16 locais as proxies bloqueadas.
 
-❖ MPB (Manual Proxy Blocker):
+**❖ MPB (Manual Proxy Blocker):**
 
 O MPB consiste em uma forma de coleta de proxys manual realizada por nossos desenvolvedores, que a cada 24H realizam uma coleta rigorosa de proxys que não podem se obitidas e forma automaticas automatica, assim nosso script sempre que iniciado irá fazer a copia das proxys coletadas e bloquar respectivamente elas.
 
