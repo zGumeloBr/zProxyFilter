@@ -79,9 +79,29 @@ wget -O pl15.toml https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/
 
 wget -O pl16.toml https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt
 
+wget -O pl17.toml https://www.proxyscan.io/download?type=https
+
+wget -O pl18.toml https://www.proxyscan.io/download?type=http
+
+wget -O pl19.toml https://www.proxyscan.io/download?type=socks4
+
+wget -O pl20.toml https://www.proxyscan.io/download?type=socks5
+
+wget -O pl21.toml https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt
+
+wget -O pl22.toml https://www.proxy-list.download/api/v1/get?type=http
+
+wget -O pl23.toml https://www.proxy-list.download/api/v1/get?type=https
+
+wget -O pl24.toml http://www.proxylists.net/socks4.txt
+
+wget -O pl25.toml http://www.proxylists.net/http_highanon.txt
+
+wget -O pl26.toml https://multiproxy.org/txt_all/proxy.txt
+
 # Compactando todas as proxies em um arquivo.
 
-cat mpb.toml pl1.toml pl2.toml pl3.toml pl4.toml pl5.toml pl6.toml pl7.toml pl8.toml pl9.toml pl10.toml pl11.toml pl12.toml pl13.toml pl14.toml pl15.toml pl16.toml >> proxies.txt
+cat mpb.toml pl1.toml pl2.toml pl3.toml pl4.toml pl5.toml pl6.toml pl7.toml pl8.toml pl9.toml pl10.toml pl11.toml pl12.toml pl13.toml pl14.toml pl15.toml pl16.toml pl17.toml pl18.toml pl19.toml pl20.toml pl21.toml pl22.toml pl23.toml pl24.toml pl25.toml pl26.toml >> proxies.txt
 
 # Replace para retirar as portas e caracteres inuteis.
 
@@ -95,7 +115,7 @@ sed -i '/^#/d' proxies.txt
 
 sed -i '/^$/d' proxies.txt
 
-sed -n '/^This/d' proxies.txt
+sed -i '/^This/d' proxies.txt
 
 # Bloqueando todos as proxys coletadas.
 
