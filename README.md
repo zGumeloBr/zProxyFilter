@@ -39,7 +39,7 @@ O MPB consiste em uma forma de coleta de proxys manual realizada por nossos dese
 </pre>
 
 <pre>
-  <code>root@server:~# bash ./zProxyFilter.sh</code>
+  <code>root@server:~# sh zProxyFilter.sh</code>
 </pre>
 
 # Contato
