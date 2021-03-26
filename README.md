@@ -24,10 +24,10 @@ O módulo EMPB bloqueia automaticamente uma lista extensa de proxies que já for
 
 # Como instalar
 
-⌨️ Siga o guia a baixo para relizar a instalação da proteção.
+⌨️ Digite o comando a baixo para relizar a instalação da proteção.
 
 <pre>
-  <code>root@server:~# bash <(curl -s https://raw.githubusercontent.com/zGumeloBr/zProxyFilter/master/zProxyFilter.sh)</code>
+  <code>bash <(curl -s https://raw.githubusercontent.com/zGumeloBr/zProxyFilter/master/zProxyFilter.sh)</code>
 </pre>
 
 # Sistemas compatíveis
